@@ -1,4 +1,6 @@
 # OWLVENTORY_Computer_Setup-Inventory_System
+Assets=Images
+
 *Note* 
 
 Must install: 
