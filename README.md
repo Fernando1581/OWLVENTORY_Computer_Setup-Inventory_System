@@ -27,7 +27,7 @@ ID: A001
 Password: ****
 
 Employee Account
-Note: You can create your own account within the application to test the employee-side features.
+Note: You can create your own account within the application to test the employee-side features. (You can create an account inside the manager registration UI)
 
 ## 🚀 How to Run
 Ensure your MySQL server is active.
